@@ -19,7 +19,7 @@ Passionate full stack developer with experience in building robust and scalable 
 ![](https://github-contributor-stats.vercel.app/api?username=FranzDevelops&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.pinimg.com/originals/f2/03/3a/f2033aecf4040189725f9341dd51d78a.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FranzDevelops&icon=0&color=0)](https://visitcount.itsvg.in)
